@@ -1,0 +1,109 @@
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\obj\Debug\StokTakip.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\obj\Debug\StokTakip.BrandsManage.resources
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\obj\Debug\StokTakip.Form1.resources
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.resources
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.GenerateResource.cache
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\obj\Debug\StokTakip.exe
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\obj\Debug\StokTakip.pdb
+C:\Users\Section1\Documents\Berna\Visual Studio C#\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+C:\Users\Section1\Documents\Berna\Visual Studio C#\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\Section1\Documents\Berna\Visual Studio C#\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\Section1\Documents\Berna\Visual Studio C#\StokTakip\StokTakip\obj\Debug\StokTakip.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\Berna\Visual Studio C#\StokTakip\StokTakip\obj\Debug\StokTakip.BrandsManage.resources
+C:\Users\Section1\Documents\Berna\Visual Studio C#\StokTakip\StokTakip\obj\Debug\StokTakip.Form1.resources
+C:\Users\Section1\Documents\Berna\Visual Studio C#\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.resources
+C:\Users\Section1\Documents\Berna\Visual Studio C#\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.GenerateResource.cache
+C:\Users\Section1\Documents\Berna\Visual Studio C#\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Documents\Berna\Visual Studio C#\StokTakip\StokTakip\obj\Debug\StokTakip.exe
+C:\Users\Section1\Documents\Berna\Visual Studio C#\StokTakip\StokTakip\obj\Debug\StokTakip.pdb
+C:\Users\Section1\Documents\Berna\Visual Studio C#\StokTakip\StokTakip\obj\Debug\StokTakip.AddPhone.resources
+C:\Users\Section1\Documents\Berna\Visual Studio C#\StokTakip\StokTakip\obj\Debug\StokTakip.Phones.resources
+C:\Users\Section1\Documents\Berna\Visual Studio C#\StokTakip\StokTakip\bin\Debug\en\StokTakip.resources.dll
+C:\Users\Section1\Documents\Berna\Visual Studio C#\StokTakip\StokTakip\obj\Debug\StokTakip.Form1.en.resources
+C:\Users\Section1\Documents\Berna\Visual Studio C#\StokTakip\StokTakip\obj\Debug\en\StokTakip.resources.dll
+C:\Users\Section1\Documents\Berna\Visual Studio C#\StokTakip\StokTakip\obj\Debug\StokTakip.AddPhone.en.resources
+C:\Users\Section1\Documents\Berna\Visual Studio C#\StokTakip\StokTakip\obj\Debug\StokTakip.BrandsManage.en.resources
+C:\Users\Section1\Documents\Berna\Visual Studio C#\StokTakip\StokTakip\obj\Debug\StokTakip.Phones.en.resources
+C:\Users\Section1\Documents\Berna\Visual Studio C#\StokTakip\StokTakip\bin\Debug\tr\StokTakip.resources.dll
+C:\Users\Section1\Documents\Berna\Visual Studio C#\StokTakip\StokTakip\obj\Debug\StokTakip.Phones.tr.resources
+C:\Users\Section1\Documents\Berna\Visual Studio C#\StokTakip\StokTakip\obj\Debug\tr\StokTakip.resources.dll
+C:\Users\Section1\Documents\Berna\Visual Studio C#\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.en.resources
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\bin\Debug\en\StokTakip.resources.dll
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\bin\Debug\tr\StokTakip.resources.dll
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\obj\Debug\StokTakip.AddPhone.resources
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\obj\Debug\StokTakip.PhoneCaseCreate.resources
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\obj\Debug\StokTakip.PhoneCaseManage.resources
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\obj\Debug\StokTakip.Phones.resources
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\obj\Debug\StokTakip.AddPhone.en.resources
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\obj\Debug\StokTakip.BrandsManage.en.resources
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\obj\Debug\StokTakip.Form1.en.resources
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\obj\Debug\StokTakip.Phones.en.resources
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\obj\Debug\StokTakip.Phones.tr.resources
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.en.resources
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\obj\Debug\en\StokTakip.resources.dll
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\obj\Debug\tr\StokTakip.resources.dll
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\obj\Debug\StokTakip.PhoneCaseCreate.en.resources
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\obj\Debug\StokTakip.PhoneCaseManage.en.resources
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\obj\Debug\StokTakip.SalesForm.resources
+C:\Users\Section1\Documents\Berna\StokTakip\StokTakip\obj\Debug\StokTakip.SalesForm.en.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\bin\Debug\en\StokTakip.resources.dll
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\bin\Debug\tr\StokTakip.resources.dll
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\obj\Debug\StokTakip.AddPhone.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\obj\Debug\StokTakip.BrandsManage.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\obj\Debug\StokTakip.Form1.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\obj\Debug\StokTakip.PhoneCaseCreate.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\obj\Debug\StokTakip.PhoneCaseManage.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\obj\Debug\StokTakip.Phones.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\obj\Debug\StokTakip.SalesForm.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\obj\Debug\StokTakip.AddPhone.en.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\obj\Debug\StokTakip.BrandsManage.en.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\obj\Debug\StokTakip.Form1.en.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\obj\Debug\StokTakip.PhoneCaseCreate.en.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\obj\Debug\StokTakip.PhoneCaseManage.en.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\obj\Debug\StokTakip.Phones.en.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\obj\Debug\StokTakip.Phones.tr.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.en.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\obj\Debug\StokTakip.SalesForm.en.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\obj\Debug\en\StokTakip.resources.dll
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\obj\Debug\tr\StokTakip.resources.dll
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\obj\Debug\StokTakip.exe
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakip\StokTakip\obj\Debug\StokTakip.pdb
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\obj\Debug\StokTakip.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\obj\Debug\StokTakip.AddPhone.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\obj\Debug\StokTakip.BrandsManage.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\obj\Debug\StokTakip.Form1.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\obj\Debug\StokTakip.PhoneCaseCreate.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\obj\Debug\StokTakip.PhoneCaseManage.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\obj\Debug\StokTakip.Phones.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\obj\Debug\StokTakip.Properties.Resources.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\obj\Debug\StokTakip.SalesForm.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\obj\Debug\StokTakip.AddPhone.en.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\obj\Debug\StokTakip.BrandsManage.en.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\obj\Debug\StokTakip.Form1.en.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\obj\Debug\StokTakip.PhoneCaseCreate.en.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\obj\Debug\StokTakip.PhoneCaseManage.en.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\obj\Debug\StokTakip.Phones.en.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\obj\Debug\StokTakip.Phones.tr.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\obj\Debug\StokTakip.Properties.Resources.en.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\obj\Debug\StokTakip.SalesForm.en.resources
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\obj\Debug\StokTakip.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\obj\Debug\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\obj\Debug\StokTakip.exe
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\obj\Debug\StokTakip.pdb
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\bin\Debug\StokTakip.exe.config
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\bin\Debug\en\StokTakip.resources.dll
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\bin\Debug\tr\StokTakip.resources.dll
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\obj\Debug\en\StokTakip.resources.dll
+C:\Users\Asus\Downloads\7.HAFTA_C#\StokTakipSON\StokTakip\obj\Debug\tr\StokTakip.resources.dll
